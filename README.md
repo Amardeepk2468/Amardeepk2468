@@ -46,8 +46,10 @@ When tackling problems, I focus on:
 
 ## 📫 Let's Connect!
 
-- **GitHub**: [github.com/yourusername](https://github.com/Amardeepk2468)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/amardeep-kasaudhan-949497224/)
+- **GitHub**: [Amardeep](https://github.com/Amardeepk2468)
+- **LinkedIn**: [Amardeep](https://www.linkedin.com/in/amardeep-kasaudhan-949497224/)
+-  **Leetcode**: [Amardeep](https://leetcode.com/u/up_47/)
+
 
 
 Feel free to reach out if you'd like to collaborate or discuss coding challenges!
