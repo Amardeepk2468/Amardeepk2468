@@ -14,18 +14,15 @@ I'm a passionate full-stack web developer with a focus on creating scalable, eff
 - **Tools**: Websocket, Socket.IO
 
 ### **Backend**
-- **Languages**: Node.js, PHP
+- **Languages**: Node.js
 - **Frameworks**: Express
 - **Databases**: MongoDB, MySQL
-- **Authentication**: JWT, OAuth, bcrypt.js
+- **Authentication**: JWT, bcrypt.js
 
-### **DevOps**
-- **Tools**: Docker, GitHub Actions
-- **Cloud**: AWS, Heroku
-- **CI/CD**: Git, Docker
+
 
 ### **Other Tools**
-- **Version Control**: Git, GitHub
+- **Version Control**:  GitHub
 
 ---
 
