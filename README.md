@@ -9,25 +9,23 @@ I'm a passionate full-stack web developer with a focus on creating scalable, eff
 ## 🚀 Skills & Technologies
 
 ### **Frontend**
-- **Languages**: JavaScript, HTML5, CSS3, TypeScript
-- **Frameworks/Libraries**: React, Redux, Next.js, Tailwind CSS, Bootstrap
-- **Tools**: Webpack, Babel, ESLint
+- **Languages**: JavaScript, HTML5, CSS3
+- **Frameworks/Libraries**: React, Tailwind CSS, Bootstrap
+- **Tools**: Websocket, Socket.IO
 
 ### **Backend**
-- **Languages**: Node.js, Python
-- **Frameworks**: Express, FastAPI
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Languages**: Node.js, PHP
+- **Frameworks**: Express
+- **Databases**: MongoDB, MySQL
 - **Authentication**: JWT, OAuth, bcrypt.js
 
 ### **DevOps**
-- **Tools**: Docker, GitHub Actions, Jenkins
-- **Cloud**: AWS, Heroku, DigitalOcean
-- **CI/CD**: Git, Docker, Nginx
+- **Tools**: Docker, GitHub Actions
+- **Cloud**: AWS, Heroku
+- **CI/CD**: Git, Docker
 
 ### **Other Tools**
-- **Version Control**: Git, GitHub, GitLab
-- **Testing**: Jest, Mocha, Chai
-- **Project Management**: Jira, Trello, Notion
+- **Version Control**: Git, GitHub
 
 ---
 
@@ -35,9 +33,8 @@ I'm a passionate full-stack web developer with a focus on creating scalable, eff
 
 I have a strong passion for solving complex problems using code. I frequently practice and compete in algorithmic challenges on platforms like:
 
-- **LeetCode**: Solved over [X] problems across a variety of difficulty levels.
-- **HackerRank**: Achieved top [X]% rank in multiple domains.
-- **Codewars**: Completed [X] katas to hone my problem-solving skills.
+- **LeetCode**: Solved over 1000+ problems across a variety of difficulty levels.
+- **Codechef**: achieved highest rank 1007 at codechef contest among 33k participants.
 
 When tackling problems, I focus on:
 - Breaking down problems into manageable parts
@@ -49,6 +46,6 @@ When tackling problems, I focus on:
 ## 🌱 Currently Learning
 - Exploring **GraphQL** for API development.
 - Diving deeper into **microservices architecture**.
-- Experimenting with **serverless functions** using AWS Lambda.
+- Experimenting with **serverless functions** using AWS.
 
 Feel free to reach out if you'd like to collaborate or discuss coding challenges!
