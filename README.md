@@ -44,4 +44,12 @@ When tackling problems, I focus on:
 - Diving deeper into **microservices architecture**.
 - Experimenting with **serverless functions** using AWS.
 
+## 📫 Let's Connect!
+
+- **GitHub**: [github.com/yourusername](https://github.com/Amardeepk2468)
+- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/amardeep-kasaudhan-949497224/)
+
+
+Feel free to reach out if you'd like to collaborate or discuss coding challenges!
+
 Feel free to reach out if you'd like to collaborate or discuss coding challenges!
