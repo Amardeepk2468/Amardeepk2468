@@ -34,7 +34,6 @@ I'm a passionate full-stack web developer with a focus on creating scalable, eff
 I have a strong passion for solving complex problems using code. I frequently practice and compete in algorithmic challenges on platforms like:
 
 - **LeetCode**: Solved over 1000+ problems across a variety of difficulty levels.
-- **Codechef**: achieved highest rank 1007 at codechef contest among 33k participants.
 
 When tackling problems, I focus on:
 - Breaking down problems into manageable parts
