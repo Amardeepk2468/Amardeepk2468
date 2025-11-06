@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer with a focus on creating scalable, eff
 ### **Frontend**
 - **Languages**: JavaScript, HTML5, CSS3
 - **Frameworks/Libraries**: React, Tailwind CSS, Bootstrap,Hooks
-- **Tools**: Websocket, Socket.IO,Material UI, Chakra UI
+- **Tools**: Websocket, Socket.IO,Material UI, Chakra UI, REST APIs, WEBRTC
 
 ### **Backend**
 - **Languages**: Node.js
